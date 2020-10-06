@@ -10,6 +10,7 @@ tasks
 |column|data_type|
 |---|---|
 |id|integer|
+|name|string|
 |content|text|
 |deadline|datetime|
 |priority|string|
